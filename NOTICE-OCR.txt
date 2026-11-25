@@ -1,0 +1,7 @@
+OCR components bundled with Forma:
+Tesseract .NET wrapper 5.2.0, Copyright 2012-2020 Charles Weld, Apache-2.0.
+https://github.com/charlesw/tesseract
+https://www.nuget.org/packages/Tesseract/5.2.0
+Tesseract OCR: https://github.com/tesseract-ocr/tesseract (Apache-2.0).
+Russian and English fast models: https://github.com/tesseract-ocr/tessdata_fast (Apache-2.0).
+Leptonica: https://github.com/DanBloomberg/leptonica (see LICENSE-Leptonica.txt).

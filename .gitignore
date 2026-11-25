@@ -1,0 +1,12 @@
+Forma.exe
+OcrWorker.exe
+ffmpeg.exe
+ffprobe.exe
+*.dll
+*.traineddata
+x64/
+pdf/
+tessdata/
+*.xml
+*.log
+results-*/
